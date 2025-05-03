@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Hi there! I'm Shabnam Quadri, an ECE student at RCOEM with a CGPA of 9.69. 📚✨ Alongside my major in Electronics and Communication Engineering, I’m also pursuing a minor in AI/ML, diving into the exciting world of Artificial Intelligence and Machine Learning. The fusion of electronics with AI is something I'm particularly passionate about, and I'm eager to explore how these technologies can revolutionize industries.<br><br>I'm also learning Python and Java to enhance my coding skills and bring these ideas to life. I’m excited to see where this combination of hardware and software knowledge will take me! 🚀 Feel free to check out my projects and connect with me on this journey. #ECE #AI #MachineLearning #MinorInAIML #Python #Java #TechInnovation #RCOEM"
+"Hi there! I'm Shabnam Quadri, an Electronics and Communication Engineering student at RCOEM also pursuing a minor in AI/ML, diving into the exciting world of Artificial Intelligence and Machine Learning. The fusion of electronics with AI is something I'm particularly passionate about, and I'm eager to explore how these technologies can revolutionize industries.<br>
 
 
 ## 🌐 Socials:
