@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Hi there! I'm Shabnam Quadri, an Electronics and Communication Engineering student at RCOEM also pursuing a minor in AI/ML, diving into the exciting world of Artificial Intelligence and Machine Learning. The fusion of electronics with AI is something I'm particularly passionate about, and I'm eager to explore how these technologies can revolutionize industries.<br>
+"Hi there! I'm Shabnam Quadri, an Electronics and Communication Engineering student at RCOEM also pursuing a minor in AI/ML<br>
 
 
 ## 🌐 Socials:
