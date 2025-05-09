@@ -1,5 +1,5 @@
 # About Me:
-"Hi there! I'm Shabnam Quadri, an Electronics and Communication Engineering student at RCOEM also pursuing a minor in AI/ML<br>
+"Hi there! I'm Shabnam Quadri<br>
 
 
 ##  Socials:
