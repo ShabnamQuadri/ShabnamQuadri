@@ -1,4 +1,4 @@
-#  Hey there, I'm Shabnam Quadri  
+#  Hey, I'm Shabnam Quadri  
 
 🎓 I’m currently studying **Electronics and Communication**
 
